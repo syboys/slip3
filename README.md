@@ -11,6 +11,12 @@ Q. 3. Create an HTML form for Login and write a JavaScript to validate email ID
 using Regular Expression. 
 
 
+
+
+
+
+
+
 Q.1 Write a JAVA Program to implement built-in support (java.util.Observable) Weather
 station with members temperature, humidity, pressure and methods
 mesurmentsChanged(), setMesurment(), getTemperature(), getHumidity(),
